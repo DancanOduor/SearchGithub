@@ -7,10 +7,10 @@ Install npm packages using 'npm install' command.
 
 ## Usage
 
-1. Git clone this repository from [https://github.com/EKibet/SearchGithub.git](Search-Github).
+1. Git clone this repository from [](Search-Github).
 2. Make sure you have node and npm installed
 3. Run npm link in your terminal, this will download and save all required modules.
-4. Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
+4. Run ng serve for a dev server. Navigate to The app will automatically reload if you change any of the source files.
 
 
 ## Specifications
@@ -29,9 +29,5 @@ Install npm packages using 'npm install' command.
 4. CSS3 
 
 ## Bugs and issues
- No known bugs until now, but since it has just passed a single user test, if you encounter any issues Hola me on [kibetedgar@gmail.com](Edgar).
- 
-## Licence
+ No known bugs until now, but since it has just passed a single user test, if you encounter any issues Hola me on []
 
-This software is Licenced under MIT Licence
-Copyright 2018[https://opensource.org]( Edgar)
